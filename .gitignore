@@ -1,0 +1,6 @@
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# Raw large CSVs replaced by compressed .zip versions (see e-commerce美妆/销售数据/)
+e-commerce美妆/销售数据/*.csv
